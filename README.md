@@ -23,13 +23,3 @@ Frontend: React 18+, Axios, Fetch API
 
 Cloud: Google Cloud Storage (GCS)
 
-📁 Folder Structure
-bash
-Copy
-Edit
-├── backend/               # Laravel API
-│   └── app/Http/Controllers/UploadController.php
-│   └── routes/api.php
-├── frontend/              # React App
-│   └── src/VideoUploader.jsx
-└── .env                   # GCP credentials
